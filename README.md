@@ -1,0 +1,2 @@
+# A-Secure-IoT-Based-Medicine-Management-System-for-Educational-Institutes
+This project is a Secure IoT-Based Medicine Management System built in Python on Raspberry Pi. It integrates keypad-based password authentication, barcode scanning for student identification, automated medicine dispensing using DC motors, Excel logging, and Adafruit IO for cloud monitoring. Designed for schools, colleges, and hostel medical centers
